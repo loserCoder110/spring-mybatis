@@ -1,0 +1,11 @@
+##  在属性后面的:记得加一个空格
+server:
+     port: 8083
+spring:
+    datasource:
+        name: test123
+        url: jdbc:mysql://127.0.0.1:3306/spring_mybatis
+        username: root
+        password: Root123#
+mybatis:
+     mapper-locations: classpath:mapping/*.xml
