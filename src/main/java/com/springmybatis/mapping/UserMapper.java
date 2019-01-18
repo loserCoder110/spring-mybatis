@@ -1,4 +1,5 @@
-package com.springmybatis.mapper;
+package com.springmybatis.mapping;
+
 
 import com.springmybatis.entity.User;
 
